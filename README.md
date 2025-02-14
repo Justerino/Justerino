@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Justin and I am currently working to become a software developer. I've always had a strong passion for technology and have decided to take action and pursue a career as a software developer. I have experience in Java, C/C++, JavaScript, TypeScript, Python and HTML5/CSS. I'm currently learning how to utilize ThreeJS and cloud based platforms, and am very interested in expanding my knowledge with different programming languages!
+My name is Justin and I am currently working as a full time Software Engineer. I specialize in Full Stack development with frameworks such as React.js/Next.js, Springboot, Express.js, and Flask. I have experience in Java, C/C++, JavaScript/TypeScript, Python and HTML5/CSS. My current favorite technology to learn is utilizing ThreeJS and cloud based platforms, and am very interested in expanding my knowledge with different programming languages/frameworks!
 
 ### Projects 🖥️
 If you are interested in any of my work, please check out my pinned projects as they are currently a good demonstration of my programming ability.
